@@ -1,6 +1,6 @@
 #pragma once
-#include "../../SDK.h"
-#include "../../Client.h"
+#include "SDK.h"
+#include "Client.h"
 #include "Menu.h"
 class CHvH
 {
