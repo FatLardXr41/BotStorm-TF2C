@@ -91,7 +91,7 @@ void CCheatMenu::Render(void)
 		if (gCheatMenu.playerlist_switch)
 			i = AddItem(i, szString, &gCheatMenu.PlayerMode[pPlayer->GetIndex()], 0, 2, 1, false);
 	}
-	i = AddItem(i, "Player List", &gCheatMenu.playerlist_switch_followbot, 0, 1, 1, true);
+	i = AddItem(i, "Player List (for followbot)", &gCheatMenu.playerlist_switch_followbot, 0, 1, 1, true);
 	for (int p = 1; p <= gInts.Engine->GetMaxClients(); p++)
 	{
 		if (p == me)
