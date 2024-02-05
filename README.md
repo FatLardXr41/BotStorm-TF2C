@@ -7,5 +7,13 @@ Get Sandboxie, make boxes, run steam in them, launch TF2C on that box, inject th
 
 # Credits
 - Gir489 (For the ugly list menu)
-- usernameunavailabe (For the SDK)
+- usernameunavalible0 (For the SDK)
 - idk who dev'd darkstorm but credits to them ig lmfao
+- Dumpster-Fire Devs (Followbot)
+- NaCl (Aimbot FoV)
+- Potassium (Aimbot)
+
+# Features
+- Aimbot
+- Followbot
+- ChatSpam
